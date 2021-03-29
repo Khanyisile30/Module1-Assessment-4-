@@ -1,0 +1,27 @@
+h1{
+    color:#B40486
+}
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    text-align:left;
+}
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%
+}
+    td,th{
+        border:1px solid #dddddd;
+        text-align:left;
+        padding:8px;
+    }
+    th{
+        font-weight: 800;
+        background-color:#086A87;
+    }
+
+    
